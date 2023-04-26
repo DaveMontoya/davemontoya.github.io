@@ -5,7 +5,7 @@
  <source media="(prefers-color-scheme: light)" srcset="./img/Banner_1080.jpg">
  <img alt="Dave Montoya" src="./img/Banner_1080.jpg">
 </picture>
-## About me
+<!-- ## About me -->
 <p></p>
 Dave Montoya S.
 <p></p>
