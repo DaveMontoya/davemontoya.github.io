@@ -1,9 +1,13 @@
+<!-- Descripciòn inicial de mi repositorio personal en Github -->
 # davemontoya.github.io
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./img/Banner_1080.jpg">
  <source media="(prefers-color-scheme: light)" srcset="./img/Banner_1080.jpg">
  <img alt="Dave Montoya" src="./img/Banner_1080.jpg">
 </picture>
+## About me
+<p></p>
+Dave Montoya S.
 <p></p>
 - Experiencia en Tecnologías de Información para Proyectos IT y Servicios Gestionados en el campo de las Telecomunicaciones y Telefonía Celular. 
 <p></p>
@@ -12,3 +16,8 @@
 -  Manejo de Big Data + Análisis de Datos en Qlik Sense para gestión de proyectos y KPIs.
 <p></p>
 -  Proyectos de Desarrollo IT para web y móviles en Android.
+<p></p>
+---
+> "En el universo, hay cosas que se conocen y cosas que se desconocen, y en el medio, hay puertas".
+
+— ~ William Blake
