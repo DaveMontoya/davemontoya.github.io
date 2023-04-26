@@ -7,7 +7,7 @@
 </picture>
 <!-- ## About me -->
 <p></p>
-Dave Montoya S.
+<h3><b><strong>Dave Montoya S.</strong></b></h3>
 <p></p>
 - Experiencia en Tecnologías de Información para Proyectos IT y Servicios Gestionados en el campo de las Telecomunicaciones y Telefonía Celular. 
 <p></p>
@@ -17,7 +17,8 @@ Dave Montoya S.
 <p></p>
 -  Proyectos de Desarrollo IT para web y móviles en Android.
 <p></p>
----
-> "En el universo, hay cosas que se conocen y cosas que se desconocen, y en el medio, hay puertas".
-
-— ~ William Blake
+<p></p>
+<break></break>
+<break></break>
+<b><i>"En el universo, hay cosas que se conocen y cosas que se desconocen, y en el medio, hay puertas".</i></b>
+— William Blake
