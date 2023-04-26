@@ -4,6 +4,7 @@
  <source media="(prefers-color-scheme: light)" srcset="./img/Banner_1080.jpg">
  <img alt="Dave Montoya" src="./img/Banner_1080.jpg">
 </picture>
+<p></p>
 - Experiencia en Tecnologías de Información para Proyectos IT y Servicios Gestionados en el campo de las Telecomunicaciones y Telefonía Celular. 
 <p></p>
 - Operación, administración y soporte a Plataformas IT, Web y Aplicaciones Móviles para proyectos de campo y O&M en la industria de las Telecomunicaciones y telefònia móvil.
